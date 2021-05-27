@@ -1,0 +1,14 @@
+#mts {
+    float:left;
+    display:inline;
+}
+#controls {
+    float:left;
+    display:inline;
+    width: 630px;
+}
+#controls > .control {
+    float:left;
+    display:inline;
+    width: 210px;
+}
